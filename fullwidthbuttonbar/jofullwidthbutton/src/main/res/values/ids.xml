@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tpm_display" type="id" />
+    <item name="tpm_displayvalue" type="id" />
+    <item name="tpm_icon_place" type="id" />
+    <item name="tpm_arrow" type="id" />
+    <item name="mswitcher" type="id" />
+    <item name="tprightside" type="id" />
+    <item name="button_gear_action" type="id" />
+    <item name="progress_bar_save" type="id" />
+    <item name="error_image_target" type="id" />
+    <item name="error_issue" type="id" />
+    <item name="error_tpm_lyo" type="id" />
+    <item name="outline" type="id" />
+</resources>

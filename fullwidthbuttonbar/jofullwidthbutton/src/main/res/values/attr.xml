@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="tpm_fun">
+        <attr name="tpm_ext_title" format="reference" />
+        <attr name="tpm_arrow_drawable" format="reference" />
+        <attr name="tpm_icon_drawable" format="reference" />
+        <attr name="tpm_decor_background" format="reference" />
+    </declare-styleable>
+</resources>
