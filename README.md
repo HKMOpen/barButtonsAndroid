@@ -1,5 +1,5 @@
 # barButtonsAndroid
-
+[ ![Download](https://api.bintray.com/packages/jjhesk/maven/fwbuttons/images/download.svg) ](https://bintray.com/jjhesk/maven/fwbuttons/_latestVersion)
 Easy Setup the dynamic long menu in JAVA Android
 
 why
